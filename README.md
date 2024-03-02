@@ -12,4 +12,5 @@
   * https://drive.google.com/file/d/1CcjOECnPtMvGMFZZBoZfZVIuHMUBjmUJ/view?usp=sharing
 * Installing docker on Ubuntu
   * https://drive.google.com/file/d/1UGja6BblxPUMo09B0A-die3ZltyzQJfd/view?usp=sharing 
-* 
+* Deploying the image with Docker compose
+  * https://drive.google.com/file/d/1-qZ7yBFQdrMbP2gEFbbtWSo6UteVBBIW/view?usp=sharing
