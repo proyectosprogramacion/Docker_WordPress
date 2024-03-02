@@ -1,4 +1,4 @@
-# Installing WordPress via Docker on Linux-Ubuntu operating system
+# How to Install WordPress using Docker Compose on Linux-Ubuntu operating system
 
 ## Resources
 
