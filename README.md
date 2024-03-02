@@ -1,4 +1,4 @@
-# Installing WordPress via a Docker image on Linux
+# Installing WordPress via Docker on Linux-Ubuntu operating system
 
 ## Resources
 
