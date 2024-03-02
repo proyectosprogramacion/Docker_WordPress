@@ -9,5 +9,5 @@
 
 ## Manuals
 * Basic concepts
-** https://drive.google.com/file/d/1CcjOECnPtMvGMFZZBoZfZVIuHMUBjmUJ/view?usp=sharing
+  * https://drive.google.com/file/d/1CcjOECnPtMvGMFZZBoZfZVIuHMUBjmUJ/view?usp=sharing
 * 
