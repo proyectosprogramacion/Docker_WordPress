@@ -8,3 +8,5 @@
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
 
 ## Manuals
+* https://drive.google.com/file/d/1CcjOECnPtMvGMFZZBoZfZVIuHMUBjmUJ/view?usp=sharing
+* 
